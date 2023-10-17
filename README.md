@@ -1,4 +1,4 @@
-# Air_Writing_using_UWB_Radar
+# Air Writing using UWB Radar
 
 ### Dataset
 <pre>
